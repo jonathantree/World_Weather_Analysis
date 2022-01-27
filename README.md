@@ -4,6 +4,13 @@
 The purpose of this project was to create inteactive maps using the Google Maps, Places, and Directions APIs to provide a travel itinerary based on a user provided parameter of the temperature range they desired to spend their vacation in. 
 
 Resources: 
+API keys gor Google API and OpenWeatherMap API
+Software: 
+- citipy 0.0.5
+- pandas 1.3.5
+- requests 2.27.0
+- gmaps 0.9.0
+- numpy 1.20.3
 
 
 ## Project Flow:
