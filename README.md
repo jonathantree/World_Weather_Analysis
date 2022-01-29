@@ -1,7 +1,7 @@
 # World Weather Analysis
 
 ## Overview of Project
-The purpose of this project was to create inteactive maps using the Google Maps, Places, and Directions APIs to provide a travel itinerary based on a user provided parameter of the temperature range they desired to spend their vacation in. 
+The purpose of this project was to create inteactive maps using Google Maps, Places, and Directions APIs to provide a travel itinerary based on a user provided parameter of the temperature range they desired to spend their vacation in. 
 
 Resources: 
 API keys gor Google API and OpenWeatherMap API
